@@ -1,2 +1,0 @@
-print('nama')
-print ('nim')
